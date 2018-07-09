@@ -24,9 +24,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/core/vm"
+	"github.com/penplus/go-realcoin/params"
 )
 
 type account struct{}

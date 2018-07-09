@@ -27,11 +27,11 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/bitutil"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/crypto/sha3"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/common/bitutil"
+	"github.com/penplus/go-realcoin/crypto"
+	"github.com/penplus/go-realcoin/crypto/sha3"
+	"github.com/penplus/go-realcoin/log"
 )
 
 const (

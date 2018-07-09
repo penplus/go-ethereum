@@ -6,10 +6,10 @@ package contract
 import (
 	"strings"
 
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/penplus/go-realcoin/accounts/abi"
+	"github.com/penplus/go-realcoin/accounts/abi/bind"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/core/types"
 )
 
 // FIFSRegistrarABI is the input ABI used to generate the binding from.

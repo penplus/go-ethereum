@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/penplus/go-realcoin/log"
 	set "gopkg.in/fatih/set.v0"
 )
 

@@ -23,9 +23,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/penplus/go-realcoin/common/math"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/params"
 )
 
 type diffTest struct {

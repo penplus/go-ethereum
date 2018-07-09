@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/accounts/keystore"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/penplus/go-realcoin/accounts/keystore"
+	"github.com/penplus/go-realcoin/log"
 )
 
 // deployFaucet queries the user for various input on deploying a faucet, after

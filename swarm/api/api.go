@@ -30,14 +30,14 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/contracts/ens"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/swarm/log"
-	"github.com/ethereum/go-ethereum/swarm/multihash"
-	"github.com/ethereum/go-ethereum/swarm/storage"
-	"github.com/ethereum/go-ethereum/swarm/storage/mru"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/contracts/ens"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/metrics"
+	"github.com/penplus/go-realcoin/swarm/log"
+	"github.com/penplus/go-realcoin/swarm/multihash"
+	"github.com/penplus/go-realcoin/swarm/storage"
+	"github.com/penplus/go-realcoin/swarm/storage/mru"
 )
 
 var (

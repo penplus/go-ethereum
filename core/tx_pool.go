@@ -25,13 +25,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/core/state"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/event"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/metrics"
+	"github.com/penplus/go-realcoin/params"
 	"gopkg.in/karalabe/cookiejar.v2/collections/prque"
 )
 

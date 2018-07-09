@@ -23,9 +23,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/rlp"
 )
 
 // A Nonce is a 64-bit hash which proves (combined with the mix-hash) that

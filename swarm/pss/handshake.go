@@ -25,13 +25,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/rpc"
-	"github.com/ethereum/go-ethereum/swarm/log"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/common/hexutil"
+	"github.com/penplus/go-realcoin/crypto"
+	"github.com/penplus/go-realcoin/p2p"
+	"github.com/penplus/go-realcoin/rlp"
+	"github.com/penplus/go-realcoin/rpc"
+	"github.com/penplus/go-realcoin/swarm/log"
 )
 
 const (

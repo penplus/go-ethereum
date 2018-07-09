@@ -25,15 +25,15 @@ import (
 	"sync/atomic"
 	"time"
 
-	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/params"
+	ethereum "github.com/penplus/go-realcoin"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/core/rawdb"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/ethdb"
+	"github.com/penplus/go-realcoin/event"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/metrics"
+	"github.com/penplus/go-realcoin/params"
 )
 
 var (

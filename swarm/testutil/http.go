@@ -25,10 +25,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/swarm/api"
-	"github.com/ethereum/go-ethereum/swarm/storage"
-	"github.com/ethereum/go-ethereum/swarm/storage/mru"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/swarm/api"
+	"github.com/penplus/go-realcoin/swarm/storage"
+	"github.com/penplus/go-realcoin/swarm/storage/mru"
 )
 
 type TestServer interface {

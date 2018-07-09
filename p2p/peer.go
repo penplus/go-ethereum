@@ -25,11 +25,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/penplus/go-realcoin/common/mclock"
+	"github.com/penplus/go-realcoin/event"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/p2p/discover"
+	"github.com/penplus/go-realcoin/rlp"
 )
 
 var (

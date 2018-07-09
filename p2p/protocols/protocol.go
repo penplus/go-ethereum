@@ -36,9 +36,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/metrics"
+	"github.com/penplus/go-realcoin/p2p"
 )
 
 // error codes used by this  protocol scheme

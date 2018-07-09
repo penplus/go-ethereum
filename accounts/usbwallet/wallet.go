@@ -25,11 +25,11 @@ import (
 	"sync"
 	"time"
 
-	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/log"
+	ethereum "github.com/penplus/go-realcoin"
+	"github.com/penplus/go-realcoin/accounts"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/log"
 	"github.com/karalabe/hid"
 )
 

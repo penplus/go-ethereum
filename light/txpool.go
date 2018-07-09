@@ -22,16 +22,16 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/core"
+	"github.com/penplus/go-realcoin/core/rawdb"
+	"github.com/penplus/go-realcoin/core/state"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/ethdb"
+	"github.com/penplus/go-realcoin/event"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/params"
+	"github.com/penplus/go-realcoin/rlp"
 )
 
 const (

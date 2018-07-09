@@ -21,11 +21,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/eth/downloader"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/eth/downloader"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/p2p/discover"
 )
 
 const (

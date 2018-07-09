@@ -22,12 +22,12 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/signer/core"
-	"github.com/ethereum/go-ethereum/signer/rules/deps"
-	"github.com/ethereum/go-ethereum/signer/storage"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/internal/ethapi"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/signer/core"
+	"github.com/penplus/go-realcoin/signer/rules/deps"
+	"github.com/penplus/go-realcoin/signer/storage"
 	"github.com/robertkrimen/otto"
 )
 

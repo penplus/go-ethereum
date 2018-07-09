@@ -25,8 +25,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/penplus/go-realcoin/accounts"
+	"github.com/penplus/go-realcoin/crypto"
 	"github.com/pborman/uuid"
 	"golang.org/x/crypto/pbkdf2"
 )

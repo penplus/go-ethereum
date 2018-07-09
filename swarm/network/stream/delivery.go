@@ -20,12 +20,12 @@ import (
 	"errors"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/swarm/log"
-	"github.com/ethereum/go-ethereum/swarm/network"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/metrics"
+	"github.com/penplus/go-realcoin/p2p/discover"
+	"github.com/penplus/go-realcoin/swarm/log"
+	"github.com/penplus/go-realcoin/swarm/network"
+	"github.com/penplus/go-realcoin/swarm/storage"
 )
 
 const (

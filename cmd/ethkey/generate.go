@@ -23,9 +23,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ethereum/go-ethereum/accounts/keystore"
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/penplus/go-realcoin/accounts/keystore"
+	"github.com/penplus/go-realcoin/cmd/utils"
+	"github.com/penplus/go-realcoin/crypto"
 	"github.com/pborman/uuid"
 	"gopkg.in/urfave/cli.v1"
 )

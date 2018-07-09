@@ -20,14 +20,14 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus"
-	"github.com/ethereum/go-ethereum/consensus/misc"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/consensus"
+	"github.com/penplus/go-realcoin/consensus/misc"
+	"github.com/penplus/go-realcoin/core/state"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/core/vm"
+	"github.com/penplus/go-realcoin/ethdb"
+	"github.com/penplus/go-realcoin/params"
 )
 
 // BlockGen creates blocks for testing.

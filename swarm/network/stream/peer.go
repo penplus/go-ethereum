@@ -22,13 +22,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p/protocols"
-	"github.com/ethereum/go-ethereum/swarm/log"
-	pq "github.com/ethereum/go-ethereum/swarm/network/priorityqueue"
-	"github.com/ethereum/go-ethereum/swarm/network/stream/intervals"
-	"github.com/ethereum/go-ethereum/swarm/state"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/penplus/go-realcoin/metrics"
+	"github.com/penplus/go-realcoin/p2p/protocols"
+	"github.com/penplus/go-realcoin/swarm/log"
+	pq "github.com/penplus/go-realcoin/swarm/network/priorityqueue"
+	"github.com/penplus/go-realcoin/swarm/network/stream/intervals"
+	"github.com/penplus/go-realcoin/swarm/state"
+	"github.com/penplus/go-realcoin/swarm/storage"
 )
 
 var sendTimeout = 30 * time.Second

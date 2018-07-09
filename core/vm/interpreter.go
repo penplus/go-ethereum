@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"sync/atomic"
 
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/penplus/go-realcoin/common/math"
+	"github.com/penplus/go-realcoin/params"
 )
 
 // Config are the configuration options for the Interpreter

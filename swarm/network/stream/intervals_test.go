@@ -26,15 +26,15 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/p2p/simulations"
-	"github.com/ethereum/go-ethereum/p2p/simulations/adapters"
-	"github.com/ethereum/go-ethereum/rpc"
-	"github.com/ethereum/go-ethereum/swarm/network"
-	streamTesting "github.com/ethereum/go-ethereum/swarm/network/stream/testing"
-	"github.com/ethereum/go-ethereum/swarm/state"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/penplus/go-realcoin/node"
+	"github.com/penplus/go-realcoin/p2p/discover"
+	"github.com/penplus/go-realcoin/p2p/simulations"
+	"github.com/penplus/go-realcoin/p2p/simulations/adapters"
+	"github.com/penplus/go-realcoin/rpc"
+	"github.com/penplus/go-realcoin/swarm/network"
+	streamTesting "github.com/penplus/go-realcoin/swarm/network/stream/testing"
+	"github.com/penplus/go-realcoin/swarm/state"
+	"github.com/penplus/go-realcoin/swarm/storage"
 )
 
 var (

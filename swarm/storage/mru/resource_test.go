@@ -30,17 +30,17 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind/backends"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/contracts/ens"
-	"github.com/ethereum/go-ethereum/contracts/ens/contract"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/swarm/multihash"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/penplus/go-realcoin/accounts/abi/bind"
+	"github.com/penplus/go-realcoin/accounts/abi/bind/backends"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/contracts/ens"
+	"github.com/penplus/go-realcoin/contracts/ens/contract"
+	"github.com/penplus/go-realcoin/core"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/crypto"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/swarm/multihash"
+	"github.com/penplus/go-realcoin/swarm/storage"
 )
 
 var (

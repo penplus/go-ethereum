@@ -24,13 +24,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/consensus/ethash"
+	"github.com/penplus/go-realcoin/core"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/crypto"
+	"github.com/penplus/go-realcoin/ethdb"
+	"github.com/penplus/go-realcoin/params"
 )
 
 var (

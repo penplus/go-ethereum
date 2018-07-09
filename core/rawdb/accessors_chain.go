@@ -21,10 +21,10 @@ import (
 	"encoding/binary"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/rlp"
 )
 
 // ReadCanonicalHash retrieves the hash assigned to a canonical block number.

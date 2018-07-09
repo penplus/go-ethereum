@@ -23,8 +23,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/metrics"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/errors"
 	"github.com/syndtr/goleveldb/leveldb/filter"

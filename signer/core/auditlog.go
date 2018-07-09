@@ -21,11 +21,11 @@ import (
 
 	"encoding/json"
 
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/penplus/go-realcoin/accounts"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/common/hexutil"
+	"github.com/penplus/go-realcoin/internal/ethapi"
+	"github.com/penplus/go-realcoin/log"
 )
 
 type AuditLogger struct {

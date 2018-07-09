@@ -29,9 +29,9 @@ import (
 
 	"bazil.org/fuse"
 	"bazil.org/fuse/fs"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/swarm/api"
-	"github.com/ethereum/go-ethereum/swarm/log"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/swarm/api"
+	"github.com/penplus/go-realcoin/swarm/log"
 )
 
 var (

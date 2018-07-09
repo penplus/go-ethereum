@@ -27,10 +27,10 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/crypto/ecies"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/crypto"
+	"github.com/penplus/go-realcoin/crypto/ecies"
+	"github.com/penplus/go-realcoin/log"
 )
 
 // MessageParams specifies the exact way a message should be wrapped into an Envelope.

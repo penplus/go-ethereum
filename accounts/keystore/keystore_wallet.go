@@ -19,9 +19,9 @@ package keystore
 import (
 	"math/big"
 
-	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/core/types"
+	ethereum "github.com/penplus/go-realcoin"
+	"github.com/penplus/go-realcoin/accounts"
+	"github.com/penplus/go-realcoin/core/types"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

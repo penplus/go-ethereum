@@ -21,9 +21,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/penplus/go-realcoin/core/state"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/params"
 )
 
 var (

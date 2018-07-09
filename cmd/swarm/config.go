@@ -29,13 +29,13 @@ import (
 
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/node"
+	"github.com/penplus/go-realcoin/cmd/utils"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/node"
 	"github.com/naoina/toml"
 
-	bzzapi "github.com/ethereum/go-ethereum/swarm/api"
+	bzzapi "github.com/penplus/go-realcoin/swarm/api"
 )
 
 const SWARM_VERSION = "0.3"

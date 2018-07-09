@@ -21,9 +21,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/penplus/go-realcoin/internal/ethapi"
+	"github.com/penplus/go-realcoin/log"
+	"github.com/penplus/go-realcoin/rpc"
 )
 
 type StdIOUI struct {

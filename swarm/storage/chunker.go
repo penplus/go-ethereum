@@ -23,8 +23,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/swarm/log"
+	"github.com/penplus/go-realcoin/metrics"
+	"github.com/penplus/go-realcoin/swarm/log"
 )
 
 /*

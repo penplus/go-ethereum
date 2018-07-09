@@ -20,9 +20,9 @@ import (
 	"container/ring"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/log"
 )
 
 // headerRetriever is used by the unconfirmed block set to verify whether a previously

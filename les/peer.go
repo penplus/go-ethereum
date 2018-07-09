@@ -26,13 +26,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/eth"
-	"github.com/ethereum/go-ethereum/les/flowcontrol"
-	"github.com/ethereum/go-ethereum/light"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/core/types"
+	"github.com/penplus/go-realcoin/eth"
+	"github.com/penplus/go-realcoin/les/flowcontrol"
+	"github.com/penplus/go-realcoin/light"
+	"github.com/penplus/go-realcoin/p2p"
+	"github.com/penplus/go-realcoin/rlp"
 )
 
 var (

@@ -20,9 +20,9 @@ import (
 	"hash"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto/sha3"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/penplus/go-realcoin/common"
+	"github.com/penplus/go-realcoin/crypto/sha3"
+	"github.com/penplus/go-realcoin/rlp"
 )
 
 type hasher struct {

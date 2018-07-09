@@ -20,7 +20,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/penplus/go-realcoin/params"
 )
 
 func TestTransaction(t *testing.T) {
