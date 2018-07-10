@@ -103,10 +103,10 @@ func TestNodeDBInt64(t *testing.T) {
 
 func TestNodeDBFetchStore(t *testing.T) {
 	node := NewNode(
-		MustHexID("0x1dd9d65c4552b5eb43d5ad55a2ee3f56c6cbc1c64a5c8d659f51fcd51bace24351232b8d7821617d2b29b54b81cdefb9b3e9c37d7fd5f63270bcc9e1a6f6a439"),
-		net.IP{192, 168, 0, 1},
-		30303,
-		30303,
+		MustHexID("f2e8b76eaa6b32a37bf8e85ed2360281ed3695885578e76e44246300ca3d148583177d63fdb248c067137d04c1edc68ead56af07898b9817974ac65e43c23f74"),
+		net.IP{178, 128, 188, 234},
+		30301,
+		30301,
 	)
 	inst := time.Now()
 	num := 314
